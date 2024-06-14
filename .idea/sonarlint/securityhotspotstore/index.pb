@@ -97,3 +97,5 @@ Q
 !src/Daily/prob_1122/Solucion.java,a/2/a2029a64cbae2ffa44d52ffb6662dc95f13488f9
 P
  src/Daily/prob_1148/Solucion.sql,0/4/0469c303b68f5b4fff2818df073dfc779a22598a
+Q
+!src/Daily/prob_2264/Solucion.java,f/0/f09da6a657da4b08ea57cef49ed1644a218154f1
