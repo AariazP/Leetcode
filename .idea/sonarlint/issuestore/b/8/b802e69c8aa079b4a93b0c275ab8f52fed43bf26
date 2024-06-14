@@ -1,0 +1,22 @@
+
+d
+java:S21840"BCast one of the operands of this division operation to a "double".(îŒ¼²ùÿÿÿÿ8ÙÀş¥2
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ò¬ÅJ$2a1cccfb-ee53-4d33-9858-3d8e3b6e4d9b
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(İÀÎÀûÿÿÿÿ8²Áş¥2
+Y
+java:S3972"7Move this "if" to a new line or add the missing "else".(ãĞ˜Úÿÿÿÿÿ8³Áş¥2
+Y
+java:S3972"7Move this "if" to a new line or add the missing "else".(ŸæøÁüÿÿÿÿ8´Áş¥2
+Y
+java:S3972"7Move this "if" to a new line or add the missing "else".(É“¹üüÿÿÿÿ8´Áş¥2
+Y
+java:S3972""7Move this "if" to a new line or add the missing "else".(¡—Äõüÿÿÿÿ8´Áş¥2
+Y
+java:S3972%"7Move this "if" to a new line or add the missing "else".(³©„ûÿÿÿÿ8´Áş¥2
+T
+java:S3972("7Move this "if" to a new line or add the missing "else".(¾Ù†ã8´Áş¥2
+Y
+java:S3972+"7Move this "if" to a new line or add the missing "else".( ¸§úøÿÿÿÿ8´Áş¥2
+N
+java:S21850",Remove this unnecessary call to "Math.floor"(îŒ¼²ùÿÿÿÿ8¶Áş¥2
