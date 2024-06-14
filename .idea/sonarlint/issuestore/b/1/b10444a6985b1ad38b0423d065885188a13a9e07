@@ -1,0 +1,8 @@
+
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒδερϋÿÿÿÿ8·Μ€2J$6fa28fb3-5f10-4ef4-ad96-244c568c2e5d
+m	java:S106
+"+Replace this use of System.out by a logger.(΅†‡Λ8γΜ€2J$081e7a52-84fc-4c31-a2bf-eb769f25d776
+|
+java:S2864("4Iterate over the "entrySet" instead of the "keySet".(Ή’γ’ωÿÿÿÿ8ζΜ€2J$fdebb384-e4bc-48f0-a700-99a9d30a5eae
+z
+java:S19942"8Move the update of "pos" into this loop's update clause.(°Ϊg8ηΜ€2J$75966482-6b7e-467e-87ff-b67588159390

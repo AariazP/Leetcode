@@ -1,0 +1,10 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŽÚšïüÿÿÿÿ8ëñ—ª€2J$ec3bef19-8b80-4ccf-a602-7c75e5416f86
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒäåñûÿÿÿÿ8îñ—ª€2J$422fbc05-f097-47b2-9d2c-a3f3472bd3f9
+m	java:S106"+Replace this use of System.out by a logger.(Ê…¼ù8°ò—ª€2J$31f21306-64c3-4a6a-9e35-7109e124a1ce
+š
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ò¢Ô¢ýÿÿÿÿ8±ò—ª€2J$79e3ac42-3c72-47e2-88e2-d47aeba60397
+”
+java:S1871"LThis branch's code block is the same as the block for the branch on line 19.(Þ½Ð‚ÿÿÿÿÿ8²ò—ª€2J$99eabb1c-304c-4b4c-9b8d-b87ff7a6cab1
+p	java:S108 ")Either remove or fill this block of code.(Á§ù÷üÿÿÿÿ8²ò—ª€2J$58f1f023-771f-4324-9886-9c8de7b788cd
