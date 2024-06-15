@@ -1,27 +1,5 @@
 
 N
-src/Daily/HandOfStraights.java,5/f/5fc6dd0f18a2c6e423bed46b90fb4b48e2891e96
-O
-src/Daily/HandOffStraights.java,2/e/2e715507671e4309d06a0702ab87cc269448ebde
-K
-src/Daily/ReplaceWords.java,9/5/95a949cc8c67302e3c8def157814487b228ffb9b
-L
-src/Daily/HeightChecker.java,a/0/a002ef9654a902216f2a11b077c28cd5d78ec356
-W
-'src/Daily/SubarraySumsDivisibleByK.java,1/1/11a2d1e59e2ae88477a15cc9cda44654720caf18
-O
-src/Daily/ZigzagConversion.java,2/8/28e85aa730b1a3b143a1c47a6e396eb0f85c6c1a
-N
-src/Daily/StringToInteger.java,7/0/7093d2a1cdb2a51ad073818a0e95754de11fcb18
-P
- src/Daily/RelativeSortArray.java,b/1/b10444a6985b1ad38b0423d065885188a13a9e07
-I
-src/Daily/SortColors.java,6/b/6bbd05467f235cf76f4471dbc4ea2f46b1d756be
-a
-1src/Daily/MinimumNumberOfMovesToSeatEveryone.java,e/c/eca905d281fffe83df4c37dfed55271ba1977d3d
-`
-0src/Daily/MinimumIncrementToMakeArrayUnique.java,9/9/99c633d522defd63d2cd2721c678238418a81427
-N
 src/Daily/prob_1/Solucion.java,d/2/d27c68e390e0a3179af9ec22d017fd3891320c6e
 N
 src/Daily/prob_2/Solucion.java,6/f/6f0e81ff6684fa393a4ccda313df4bf96ba72370
@@ -49,12 +27,6 @@ O
 src/Daily/prob_75/Solucion.java,2/6/26b7335c90fd7055d3f4e560e97700b63bd09b5c
 O
 src/Daily/prob_91/Solucion.java,6/5/65bac501618d7d9b2260359494cf1df02fc45387
-F
-src/Daily/prob_94.java,8/b/8bff7f152c113468f93e2966885b7a04062267f0
-O
-src/Daily/Solucion/prob_94.java,a/7/a7c74a44de4e4dd598a5ceb3aca9a9dc0e3f8df3
-N
-src/Daily/prob_94/prob_94.java,7/5/75e0810aff567c3e4320e4081f0a2a97332eec7c
 O
 src/Daily/prob_94/Solucion.java,1/1/11c4ba2fd61d8c563216a1fa7df16e9e62283e6f
 O
@@ -99,3 +71,11 @@ P
  src/Daily/prob_1148/Solucion.sql,0/4/0469c303b68f5b4fff2818df073dfc779a22598a
 Q
 !src/Daily/prob_2264/Solucion.java,f/0/f09da6a657da4b08ea57cef49ed1644a218154f1
+P
+ src/Daily/prob_866/Solucion.java,d/4/d4b1f39f0b4a94070e747c1c469b74d8074f12a1
+N
+src/Daily/prob_8/Solucion.java,e/e/eed0991bd6c14eeffc671aabf9b8ec15f4e5a862
+P
+ src/Daily/prob_520/Solucion.java,7/9/79a19f2f9682da159149901bb05c1d87d67a938c
+L
+src/Daily/prob_520/prueba.kt,9/a/9ae10b8c3fa7aa43fbc7a858526e282c47e7e399

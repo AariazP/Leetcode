@@ -1,0 +1,7 @@
+
+Ь	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ч╣й▒8╤┼л╗Б2J$c7bece0d-d820-499b-8ea3-046b3a909009
+m	java:S106"+Replace this use of System.out by a logger.(оз■Ы8р┼л╗Б2J$bd3ee6d1-35b7-4fa3-9b09-0b48f725ee9a
+Ъ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Єв╘в¤    8░Н╛╗Б2J$b3f280f6-d73c-49c5-b413-435141398972
+З
+java:S1858"D"s" is already a string, there's no need to call "toString()" on it.(╜Ц▓╞8т┼л╗Б2J$da4b2c53-8c6e-459c-bd55-f6ca4e0c92b0

@@ -1,7 +1,0 @@
-
-9
-java:S1643:"Use a StringBuilder instead.(Ì¬—Ä8ŒÎ¼¡€2
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒäåñûÿÿÿÿ8‚¹£¡€2J$deaf7298-cb19-45d0-ab2a-b4e60436899d
-m	java:S106"+Replace this use of System.out by a logger.(¿¸í8È¹£¡€2J$cee3e4c1-762c-41b2-ae25-64551f3b709c
-š
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¡€ğûÿÿÿÿ8É¹£¡€2J$bf96db90-c2e7-4ce4-885e-fbd6e3073cb4
